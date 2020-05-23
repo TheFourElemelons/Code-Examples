@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EyeOfSauron()
+comment1.params=h\ e\ d\ m
+comment1.target=void\ setEnemies(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ enemiesSpotted()
+comment3.params=
+comment3.target=int\ getHobbits()
+comment4.params=
+comment4.target=int\ getElves()
+comment5.params=
+comment5.target=int\ getDwarves()
+comment6.params=
+comment6.target=int\ getMen()
+numComments=7
