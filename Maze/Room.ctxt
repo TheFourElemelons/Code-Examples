@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ createDoors()
+comment1.params=
+comment1.target=java.lang.String\ search()
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment3.params=
+comment3.target=java.lang.String\ inspectRoom()
+comment4.params=i
+comment4.target=java.lang.String\ inspectDoor(int)
+comment5.params=i
+comment5.target=boolean\ isLocked(int)
+comment6.params=i\ s
+comment6.target=boolean\ solveDoor(int,\ java.lang.String)
+numComments=7

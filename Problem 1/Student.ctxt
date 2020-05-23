@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Student(java.lang.String)
+comment1.params=course\ aScore
+comment1.target=void\ addAssignmentScore(Course,\ double)
+comment2.params=course\ eScore
+comment2.target=void\ addExamScore(Course,\ double)
+comment3.params=course
+comment3.target=java.util.ArrayList\ getAssignmentGrades(Course)
+comment4.params=course
+comment4.target=java.util.ArrayList\ getExamGrades(Course)
+comment5.params=course
+comment5.target=double\ getFinalGrade(Course)
+numComments=6

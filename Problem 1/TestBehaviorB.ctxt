@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=assignments\ exams
+comment0.target=double\ calculateGrade(java.util.ArrayList,\ java.util.ArrayList)
+comment0.text=\r\n\ \ \ \ calculateGrade\ will\ follow\ the\ grading\ scheme\ of\ assignments\ are\ worth\ 60%\ of\ the\ final\ grade,\ exams\ are\ worth\ 40%\r\n\ \ \ \ of\ the\ final\ grade,\ if\ the\ average\ of\ the\ exam\ portion\ is\ less\ than\ 50%\ the\ final\ grade\ will\ either\ be\ 60%\ of\r\n\ \ \ \ assignments,\ 40%\ of\ exams,\ or\ 45%\ whichever\ is\ lower.\r\n
+numComments=1

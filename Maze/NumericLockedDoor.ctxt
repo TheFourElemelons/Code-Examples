@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=NumericLockedDoor(int)
+comment1.params=s
+comment1.target=boolean\ solveDoor(java.lang.String)
+comment2.params=
+comment2.target=int\ getAnswer()
+numComments=3
